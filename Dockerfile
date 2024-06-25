@@ -1,1 +1,1 @@
-FROM polardbx/polardbx-sql:v2.4.0
+FROM polardbx/polardbx-engine-2.0:latest
