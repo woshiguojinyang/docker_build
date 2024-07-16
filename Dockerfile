@@ -1,1 +1,1 @@
-FROM emqx/emqx:5.7.1
+FROM emqx/emqx:5.7.0
